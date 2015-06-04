@@ -1,0 +1,46 @@
+<?php $__env->startSection('content'); ?>
+
+<h3>
+	Home Page
+</h3>
+
+
+<?php echo Form::open(); ?>
+
+	<?php echo Form::label('name', 'testing forms facade package:'); ?>
+
+	<?php echo Form::text('name'); ?>
+
+<?php echo Form::close(); ?>
+
+
+    <h1 class="page-heading">
+        Gulp sass testing   
+	</h1>
+
+
+
+
+</br>
+
+<p>
+	test "taylorotwell"
+</p>
+<div id="app"></div>
+</br>
+<div id="hello"></div>
+</br>
+<div id="avatar"></div>
+</br>
+<div id="tasklist"></div>
+</br>
+<div id="exampletime"></div>
+</br>
+<div id="elementexample"></div>
+</br>
+<div id="likebutton"></div>
+</br>
+<div id="avatarprofile"></div>
+
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('app', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
