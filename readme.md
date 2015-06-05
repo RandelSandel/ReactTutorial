@@ -6,7 +6,8 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-This is the laravel framework being tested with git .....this is change 1 from github.
+This is the laravel framework being tested with git .....this is change 1 from github....this is change
+2 from the local git repository
 
 ## Official Documentation
 
